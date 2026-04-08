@@ -1,0 +1,33 @@
+- `AGENTS.md`
+	- https://agents.md/
+		- "Open format for guiding coding agents" stewarded by Agentic AI Foundation under the Linux Foundation
+- Skills
+	- `.agents/skills`
+	- https://skills.sh/
+		- "Open agent skills ecosystem" managed by Vercel Labs
+		- https://github.com/vercel-labs/skills
+	- https://agentskills.io/
+		- "Open format for giving agents new capabilities and expertise" maintained by Anthropic
+		- https://github.com/agentskills/agentskills
+- Agents
+	- [Adding repository custom instructions for GitHub Copilot](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)
+	- Docs
+		- https://opencode.ai/docs/agents/
+	- Primary agents
+	- Subagents
+		- https://code.claude.com/docs/en/sub-agents
+	- Agent teams
+		- https://code.claude.com/docs/en/agent-teams
+- Softwares
+	- [OpenCode](https://open-code.dev/)
+	- [Claude](https://claude.ai/)
+	- [Cursor](https://cursor.com/)
+	- Google CLI
+		- https://github.com/googleworkspace/cli
+	- Andrej Karpathy - LLM Knowledge Bases
+		- https://x.com/karpathy/status/2039805659525644595
+		- https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+		- [Man-Computer Symbiosis](https://www.organism.earth/library/document/man-computer-symbiosis)
+	- [Commonplace](https://zby.github.io/commonplace/)
+		- "A theory builder and knowledge base for AI agent systems"
+		- [Research list for AI-supported knowledge management system](https://zby.github.io/commonplace/notes/related-systems/related-systems-index/)
