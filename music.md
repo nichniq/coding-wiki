@@ -1,4 +1,4 @@
-- Undated
+- Early April
 	- [Glass Beams - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=E4X56wIOZns)
 	- [Kronos Quartet: Tiny Desk Concert](https://www.youtube.com/watch?v=rWigCEcb4LA)
 	- [LA NIÑA - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=iXJOhA0x9Hw)
@@ -42,6 +42,27 @@
 - April 22
 	- [DakhaBrakha - Full Performance (Live on KEXP)](https://www.youtube.com/watch?v=Hxg1dL_x0gw)
 	- [Irène Drésel - Roseraie du Val-de-Marne - Passengers - ARTE](https://www.youtube.com/watch?v=FjYA6i86RcA)
-	- [TrYb | Deep Listening: Ancestral Rhythms: Music from across the African continent | Grounded 032]
+	- [TrYb | Deep Listening: Ancestral Rhythms: Music from across the African continent | Grounded 032](https://www.youtube.com/watch?v=CuZsshJsMgg)
 	- [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
- 
+- April 23
+	- [Nils Frahm - Live at the Philharmonie de Paris - ARTE Concert](https://www.youtube.com/watch?v=HPPzQgTaLbo)
+	- [The Blaze live at Cercle Odyssey, Mexico City, Mexico](https://www.youtube.com/watch?v=aiGBY5DA398)
+- April 24
+	- [Amaia: Tiny Desk Concert](https://www.youtube.com/watch?v=6tCjflXY9CM)
+	- [Luiza Brina: Tiny Desk Concert](https://www.youtube.com/watch?v=oZxDV3qwyKs)
+- April 27
+	- [Brandee Younger: Tiny Desk Concert](https://www.youtube.com/watch?v=lW2cUz9Gz94)
+	- [Sufjan Stevens - Carrie & Lowell Live (Official Film)](https://www.youtube.com/watch?v=9FX34TjJe-c)
+	- [Worakls - Fondation Vasarely - Passengers - ARTE Concert](https://www.youtube.com/watch?v=OtCujieG6Dk)
+
+## Podcasts
+
+- Late April
+	- [Our Tax System Should Make You Furious | The Ezra Klein Show](https://www.youtube.com/watch?v=mX5U5DNUfBc)
+	- [The More You Study Consciousness, the Weirder It Gets | The Ezra Klein Show](https://www.youtube.com/watch?v=hYrgLn7pWp8)
+- April 25
+	- [Silicon Valley’s Favorite Prophet on What the Tech Industry Forgot | The Ezra Klein Show](https://www.youtube.com/watch?v=t8u24wvHeSE)
+- April 27
+	- [James Talarico’s Beautiful Answer to Christian Nationalism | The Ezra Klein Show](https://www.youtube.com/watch?v=sa6fiO2EgJ4)
+- April 28
+	- [Why Are Palantir and OpenAI Scared of Alex Bores? | The Ezra Klein Show](https://www.youtube.com/watch?v=znKb71kLG5c)
