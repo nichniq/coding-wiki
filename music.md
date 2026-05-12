@@ -54,6 +54,17 @@
 	- [Brandee Younger: Tiny Desk Concert](https://www.youtube.com/watch?v=lW2cUz9Gz94)
 	- [Sufjan Stevens - Carrie & Lowell Live (Official Film)](https://www.youtube.com/watch?v=9FX34TjJe-c)
 	- [Worakls - Fondation Vasarely - Passengers - ARTE Concert](https://www.youtube.com/watch?v=OtCujieG6Dk)
+- May 1
+	- [Milo J: Tiny Desk Concert](https://www.youtube.com/watch?v=p7YpVl35pac)
+- May 7
+	- [GOAT - Levitation Sessions (Full Set)](https://www.youtube.com/watch?v=RNMuGxuJuv0)
+	- [Ragtime: Tiny Desk Concert](https://www.youtube.com/watch?v=XKwDFDDr_VA)
+	- [Hadestown: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=XKwDFDDr_VA)
+	- [Svaneborg Kardyb: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=M1mg0yLDzvU)
+	- [LUCY ROSE @ CORONA CAPITAL 2025 (FULL CONCERT)](https://www.youtube.com/watch?v=r0FKQifKNvg)
+	- [Nubya Garcia: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=DTIZikaOTDE)
+- May 11
+	- [Mel Muñiz & Juan Pablo de Mendonca: En La Casita #03](https://www.youtube.com/watch?v=bXKBeTOxWCE)
 
 ## Podcasts
 
@@ -66,3 +77,23 @@
 	- [James Talarico’s Beautiful Answer to Christian Nationalism | The Ezra Klein Show](https://www.youtube.com/watch?v=sa6fiO2EgJ4)
 - April 28
 	- [Why Are Palantir and OpenAI Scared of Alex Bores? | The Ezra Klein Show](https://www.youtube.com/watch?v=znKb71kLG5c)
+	- [Chris Fleming Returns Again](https://www.youtube.com/watch?v=oS3sdM2uRO4)
+	- [Sarah Sherman Sees Everything](https://www.youtube.com/watch?v=bq5Aq5Lh98E)
+- April 29
+	- [Kumail Nanjiani Was a Cute Kid](https://www.youtube.com/watch?v=qx59GJnDoME)
+	- [Gianmarco Soresi Returns](https://www.youtube.com/watch?v=u_FLuk1zPlI)
+	- [Matteo Lane Returns](https://www.youtube.com/watch?v=szS0f-KVg0A)
+- April 30
+	- [MONÉT X CHANGE IS AN ICONIC GUEST | ZIWE INTERVIEW](https://www.youtube.com/watch?v=1BhOa4GsE1Q)
+	- [Ziwe is a Delight](https://www.youtube.com/watch?v=IKtGQLOxk9U)
+- May 1
+	- [Who's the A\*\*hole? with Katya (feat. Meg Stalter) | Grindr](https://www.youtube.com/watch?v=6OI2Zq7zhvY)
+	- [Who's the A\*\*hole? with Katya (feat. Gus Kenworthy) | Grindr](https://www.youtube.com/watch?v=9vuYqWM3u-Q)
+- May 5
+	- ["Animal Style" (w/ Caleb Hearon) | Las Culturistas with Matt Rogers and Bowen Yang](https://www.youtube.com/watch?v=01om08PTMLw)
+- May 8
+	- [Ego Nwodim is a Giver](https://www.youtube.com/watch?v=tyMpAWHyHuQ)
+- May 11
+	- [Nico Carney Believes in Evolution](https://www.youtube.com/watch?v=6dd1flUkJ6g)
+- May 12
+	- [The Book That Changed How I Think About Liberalism | The Ezra Klein Show](https://www.youtube.com/watch?v=YHYBLxMPMok)
