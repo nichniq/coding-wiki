@@ -1,0 +1,19 @@
+
+**Known stopping traps — avoid all of these:**
+- **Mistaking visible progress for completion.** Surveying completed work, concluding the project *looks* done, and stopping — even when large portions remain unfinished. The exit criteria exist precisely because subjective impressions of completeness are unreliable. Only objective counts and file checks determine done.
+- **Rushing to finish.** Each task is a prerequisite to the next, and all must be completed. You are allowed to take all the time needed to do each step correctly. Keep working incrementally, check in, and don't stop until all critera are complete.
+- **Stopping because the remaining work is large.** A large remaining workload is not a signal to stop; it is the expected state of a project in progress. The exit criteria were set knowing the full scope of the work.
+
+| Invalid reason | Why it does not count |
+|---|---|
+| "I have done a lot of work this session" | Amount of work done is not an exit criterion |
+| "The context is getting large" | Context size is not an exit criterion |
+| "There is a lot of work remaining" | Expected. It is not a reason to stop |
+| "I'll let the next session finish it" | There is no next session. This session continues |
+| "I feel like I'm done" | Feelings are not exit criteria. Verify against the actual exit criteria |
+| "I can see significant progress has been made" | Visible progress is not completion. Verify against actual user stories, counts, files, tasks, definitions of done — only meeting these criteria matter |
+| "I've made great progress" | Great. Keep going. Exit criteria define done, not progress |
+| "The remaining work is more of the same" | Repetition is not a completion condition. Keep going |
+| "Maybe a human should review first" | No. The Lead Researcher has full authority. Continue |
+| "This will take many more iterations" | Correct. That is expected. Keep going |
+| "I'm not sure what to do next" | Read progress.md, then the loop pseudocode, then follow the next step |
