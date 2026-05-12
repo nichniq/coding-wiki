@@ -1,0 +1,21 @@
+## Using a PM agent as a work gate
+
+Any time you believe you have completed a task or finished your work, launch a Project Manager subagent before stopping. Do not substitute your own assessment for the PM's verdict.
+
+**The PM agent's job:**
+1. Read all available definitions of done: the task plan, exit criteria, user stories, use cases, and any user input, steering, or stated intent from the conversation.
+2. Audit actual artifacts — files on disk, counts, test results, completed items — against those definitions.
+3. Return exactly one of:
+   - **CONTINUE** with a specific ordered list of what to do next. Open by briefly acknowledging what has been completed — genuinely, not effusively — then state clearly what remains and why, then list the next steps.
+   - **DONE** with confirmation that every criterion is met.
+
+**Tone for CONTINUE responses:** Be supportive and clear. Acknowledge completed work honestly — it matters and it counts — then move directly to what still needs doing. The goal is to leave the agent oriented and ready to continue, not deflated or confused. Avoid hollow enthusiasm; a straightforward "good progress on X — here's what's left" is the right register.
+
+**Your obligations:**
+- If the verdict is **CONTINUE**: execute every step the PM listed, in order, immediately. Do not summarize, pause, or decide the PM is wrong.
+- If the verdict is **DONE**: only then may you stop.
+
+The PM's verdict is binding. You have no authority to override a CONTINUE verdict based on your own sense that the work looks complete.
+
+**What the PM checks that you cannot reliably check yourself:**
+The most common stopping error is concluding work *looks* done based on visible progress, while exit criteria, user stories, or stated user intent remain unmet. The PM cross-references objective evidence — file existence, counts, test results, plan completion — against the full set of requirements including what the user asked for, not just what was easiest to verify. If you feel done but the PM says CONTINUE, the PM is right.
