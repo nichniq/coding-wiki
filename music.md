@@ -65,6 +65,14 @@
 	- [Nubya Garcia: Tiny Desk (Home) Concert](https://www.youtube.com/watch?v=DTIZikaOTDE)
 - May 11
 	- [Mel Muñiz & Juan Pablo de Mendonca: En La Casita #03](https://www.youtube.com/watch?v=bXKBeTOxWCE)
+- May 14
+	- [Daniel, Me Estás Matando: Tiny Desk Concert](https://www.youtube.com/watch?v=wC6iA_C_KC8)
+- May 21
+	- [Adrianne Lenker: Brodie Sessions](https://www.youtube.com/watch?v=VPyvcZXwKLo)
+- May 22
+	- [RaiNao: Tiny Desk Concert](https://www.youtube.com/watch?v=2OotD-iJO80)
+- June 10
+	- [Agnes Obel LIVE@LE GRAND REX, France, Apr.14th 2014 (VIDEO) \*BEST-OF\*](https://www.youtube.com/watch?v=iaJVP67iU1Y)
 
 ## Podcasts
 
@@ -97,3 +105,25 @@
 	- [Nico Carney Believes in Evolution](https://www.youtube.com/watch?v=6dd1flUkJ6g)
 - May 12
 	- [The Book That Changed How I Think About Liberalism | The Ezra Klein Show](https://www.youtube.com/watch?v=YHYBLxMPMok)
+	- [GLP-1s Are a Lot Weirder Than Anyone Thought | The Ezra Klein Show](https://www.youtube.com/watch?v=T_JKQt4mp5I)
+- May 19
+	- [Is It Time to Break the Two-Party System? | The Ezra Klein Show](https://www.youtube.com/watch?v=cWN4Gsk9Ms0)
+- May 27
+	- ["Unleashed" (w/ Dr. Orna Guralnik feat. Nico) | Las Culturistas with Matt Rogers and Bowen Yang](https://www.youtube.com/watch?v=lM4F5xJh32M)
+- June 10
+	- [Graham Platner Wants a Democratic Revolution | The Interview](https://www.youtube.com/watch?v=PsMgQVqa-DA)
+	- [How Egocentric Parents Impact Their Kids | The Interview](https://www.youtube.com/watch?v=hhHLLtI4Taw)
+- June 11
+	- [The Right’s Pre-Modern ‘Masculinist’ Fantasy | The Ezra Klein Show](https://www.youtube.com/watch?v=YK1aj39y55k)
+- June 16
+	- [Zig 2026: No-AI Policy, $670K Foundation, Left GitHub & Why Zig Isn’t 1.0 - Andrew Kelley Explains](https://www.youtube.com/watch?v=iqddnwKF8HQ)
+- June 17
+	- [George Saunders Says Breaking These 3 Delusions Can Save You | The Interview](https://www.youtube.com/watch?v=wGWCqgIyrbM)
+	- [Is Your Social Life Missing Something? This Is For You. | The Ezra Klein Show](https://www.youtube.com/watch?v=714IB4avhWg)
+- June 22
+	- [AI Was Never About Helping You | Cory Doctorow](https://www.youtube.com/watch?v=SPQNPJ0CEPo)
+
+## Talks
+- [Full Walkthrough: Workflow for AI Coding — Matt Pocock](https://www.youtube.com/watch?v=-QFHIoCo-Ko)
+- [Design, Composition, and Performance - Rich Hickey](https://www.youtube.com/watch?v=MCZ3YgeEUPg)
+- ["Software Fundamentals Matter More Than Ever" — Matt Pocock](https://www.youtube.com/watch?v=v4F1gFy-hqg)
