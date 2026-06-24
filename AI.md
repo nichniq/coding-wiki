@@ -31,3 +31,6 @@
 	- [Commonplace](https://zby.github.io/commonplace/)
 		- "A theory builder and knowledge base for AI agent systems"
 		- [Research list for AI-supported knowledge management system](https://zby.github.io/commonplace/notes/related-systems/related-systems-index/)
+- Talks
+	- [Full Walkthrough: Workflow for AI Coding — Matt Pocock](https://www.youtube.com/watch?v=-QFHIoCo-Ko) - 20m
+	- [12-Factor Agents: Patterns of reliable LLM applications — Dex Horthy, HumanLayer](https://www.youtube.com/watch?v=8kMaTybvDUw)
